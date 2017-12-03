@@ -13,6 +13,9 @@ It's a old school project-<b>Library Management System</b>. I have added certain
   <li>Delay in returning book, lost/damaged cases will come under penalty charges.</li>
 </ul>
 
+<img src="Picture2 (2).png" alt="Smiley face">
+We are following above pattern to assign a unique id to each book.
+
 <b><h4>Below is the app specification:</b></h4>
 <dl>
   <dt>App name      : </dt>
