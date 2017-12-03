@@ -1,6 +1,6 @@
 # LMS
 
-It's a old school project-<b>Library Management System<b>. I have added certail feature especially designed it to well-suitable for my college "Digital Library". 
+It's a old school project-<b>Library Management System</b>. I have added certail feature especially designed it to well-suitable for my college "Digital Library". 
 
 <h3>About :</h3>
 <ul>
